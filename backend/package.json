@@ -1,0 +1,25 @@
+{
+  "name": "appdog",
+  "version": "1.0.0",
+  "description": "applicativo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciotamai/appPersonal.git"
+  },
+  "keywords": [
+    "yasmin@2028"
+  ],
+  "author": "Fabricio Tamai Alves Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabriciotamai/appPersonal/issues"
+  },
+  "homepage": "https://github.com/fabriciotamai/appPersonal#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
